@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wGiao4zrHTGlCGteGzx21YfT5HpZNLKr8Z4PP1MOfBe7kclUXIcjWjzHf22nRU34/WMQXmIO0EzF7CyZS4g8GQ==",
+  "success": true,
+  "projectFilePath": "/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/Currency_Converter.csproj",
+  "expectedPackageFiles": [
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.23/microsoft.netcore.app.host.osx-x64.3.1.23.nupkg.sha512",
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

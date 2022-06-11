@@ -1,0 +1,14 @@
+/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/obj/Debug/netcoreapp3.1/Currency_Converter.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/obj/Debug/netcoreapp3.1/Currency_Converter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/obj/Debug/netcoreapp3.1/Currency_Converter.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/obj/Debug/netcoreapp3.1/Currency_Converter.AssemblyInfo.cs
+/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/obj/Debug/netcoreapp3.1/Currency_Converter.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/bin/Debug/netcoreapp3.1/Currency_Converter
+/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/bin/Debug/netcoreapp3.1/Currency_Converter.deps.json
+/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/bin/Debug/netcoreapp3.1/Currency_Converter.runtimeconfig.json
+/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/bin/Debug/netcoreapp3.1/Currency_Converter.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/bin/Debug/netcoreapp3.1/Currency_Converter.dll
+/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/bin/Debug/netcoreapp3.1/Currency_Converter.pdb
+/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/obj/Debug/netcoreapp3.1/Currency_Converter.dll
+/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/obj/Debug/netcoreapp3.1/Currency_Converter.pdb
+/Users/yusifnazarbayov/Visual Studio/Projects/Currency_Converter/obj/Debug/netcoreapp3.1/Currency_Converter.genruntimeconfig.cache
